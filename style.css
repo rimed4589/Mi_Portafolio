@@ -72,7 +72,7 @@ h1 {
 
 .hero {
     background-color: #f5f6f7;
-    min-height: 450px;
+    min-height: 400px;
     text-align: center;
 }
 
@@ -405,6 +405,13 @@ footer {
 }
 
 @media screen and (max-width: 767px) {
+
+    .sobre-mi .contenedor p {
+        padding: 0px 10px 5px;
+        font-size: 1rem;
+        text-align: center;
+    }
+
     .navbar-brand {
         display: none;
     }
