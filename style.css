@@ -390,6 +390,8 @@ footer {
     font-size: 15px;
     color: #aeaeae;
     padding: 20px 10px;
+    width: 100%;
+    text-align: center;
 }
 
 /*=========================MEDIA QUERIES PANTALLA SM================================*/
