@@ -389,9 +389,7 @@ footer {
 .derechos-autor {
     font-size: 15px;
     color: #aeaeae;
-    padding: 20px 10px;
-    width: 100%;
-    text-align: center;
+    padding: 10px;
 }
 
 /*=========================MEDIA QUERIES PANTALLA SM================================*/
@@ -421,6 +419,15 @@ footer {
     .testimonios-imagen {
         height: 120px;
         width: 120px;
+    
+    }
+
+    .carousel-inner {
+        padding-top: 80px;
+        padding-bottom: 50px;
+        margin-bottom: 20px;
+        
+        
     }
 
     .testimonios-texto {
